@@ -22,4 +22,4 @@ If you want to know thin project from scratch, see [how it generate](docs/00_how
 
 ## LICENSE
 
-MIT
+MIT# remix-d1-bullets
